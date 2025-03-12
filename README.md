@@ -12,7 +12,7 @@
     <img src="social-icons-master/SVG/Color/Github.svg" alt="GitHub" width="40" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/harshnainuji/" target="_blank">
-    <img src="social-icons-master/SVG/Color/LinkedIn.svg" alt="LinkedIn" width="40" height="40" />
+    <img src="icons8-linkedin.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="mailto:nainujiharsh@gmail.com" target="_blank">
     <img src="social-icons-master/SVG/Color/Gmail.svg" alt="Email" width="40" height="40" />
@@ -36,7 +36,7 @@
 ## 🌐 Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/harshnainuji/" target="_blank">
-    <img src="social-icons-master/SVG/Color/LinkedIn.svg" alt="LinkedIn" width="50" height="50" />
+    <img src="icons8-linkedin.svg" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="mailto:nainujiharsh@gmail.com" target="_blank">
     <img src="social-icons-master/SVG/Color/Gmail.svg" alt="Email" width="50" height="50" />
@@ -144,4 +144,4 @@ An appointment booking system for a child care hospital with robust admin functi
 ## 📫 Get In Touch
 Feel free to reach out to me at [nainujiharsh@gmail.com](mailto:nainujiharsh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harshnainuji/). Let's collaborate and innovate!
 
-> *"Keep pushing boundaries, stay curious, and never stop learning. The future is built one line of code at a time!"* — ChatGPT
+> *"Keep pushing boundaries, stay curious, and never stop learning. The future is built one line of code at a time!"*
