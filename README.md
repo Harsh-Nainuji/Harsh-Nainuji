@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Harsh Nainuji</h1>
-<h3 align="center">Web Developer | Full-Stack Enthusiast | Problem-Solver</h3>
+<h3 align="center">Full-Stack Enthusiast | Problem-Solver</h3>
 
 <!-- Social Media Shields using local SVG icons -->
 <p align="center">
@@ -103,7 +103,7 @@
   <p style="font-size: 1.2rem;">Feel free to reach out to me:</p>
   <p>
     <a href="mailto:nainujiharsh@gmail.com" style="text-decoration: none; color: inherit;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
+      <img src="social-icons-master/SVG/Color/Gmail.svg" alt="Email" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
       <strong>nainujiharsh@gmail.com</strong>
     </a>
   </p>
@@ -149,6 +149,10 @@ An appointment booking system for a child care hospital with robust admin functi
 
 ---
 
+<p align="center">
+  <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1rY3RmYXloZ3NrNzU1ZHg0djRqZThqaXNxbDNjcDFlaXFpNXkyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L73N7YlkzdrgI/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21idW0yZTJiZXlwb29wN2NlaTB5c2l0cm9iY29iOWRiZ2praGFxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif)" alt="L" width="250" />
+</p>
+
 ## 🌍 Languages I Speak
 
 <div align="center">
@@ -156,23 +160,23 @@ An appointment booking system for a child care hospital with robust admin functi
     <tr>
       <td align="center" style="padding: 10px;">
         <img src="https://flagcdn.com/w40/us.png" alt="English" /><br>
-        *English*
+        English
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://flagcdn.com/w40/in.png" alt="Hindi" /><br>
-        *Hindi*
+        Hindi
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://flagcdn.com/w40/in.png" alt="Gujarati" /><br>
-        *Gujarati*
+        Gujarati
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://flagcdn.com/w40/jp.png" alt="Japanese" /><br>
-        *Japanese*
+        Japanese
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://flagcdn.com/w40/fr.png" alt="French" /><br>
-        *French*
+        French
       </td>
     </tr>
   </table>
@@ -189,7 +193,7 @@ An appointment booking system for a child care hospital with robust admin functi
 - **Pop Culture:** I infuse quirky pop culture references and memes into my projects to keep my work fun and relatable.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Fun" width="250" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1rY3RmYXloZ3NrNzU1ZHg0djRqZThqaXNxbDNjcDFlaXFpNXkyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L73N7YlkzdrgI/giphy.gif" alt="Coding Fun" width="250" />
 </p>
 
 ---
