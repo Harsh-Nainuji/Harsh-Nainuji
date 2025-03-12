@@ -1,4 +1,4 @@
-<!-- Banner Image -->
+<!-- Pop Culture Banner (sourced from Unsplash) -->
 <p align="center">
   <img src="https://source.unsplash.com/featured/1200x300/?popculture,tech" alt="Harsh Nainuji Banner" />
 </p>
@@ -6,16 +6,16 @@
 <h1 align="center">Harsh Nainuji</h1>
 <h3 align="center">Web Developer | Full-Stack Enthusiast | Problem-Solver</h3>
 
-<!-- Social Media Links -->
+<!-- Social Media Shields using local SVG icons -->
 <p align="center">
-  <a href="https://github.com/Harsh-Nainuji">
-    <img src="https://img.shields.io/github/followers/Harsh-Nainuji?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/Harsh-Nainuji" target="_blank">
+    <img src="social-icons-master/SVG/Color/Github.svg" alt="GitHub" width="40" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/harshnainuji/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/harshnainuji/" target="_blank">
+    <img src="social-icons-master/SVG/Color/LinkedIn.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="mailto:nainujiharsh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=social&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:nainujiharsh@gmail.com" target="_blank">
+    <img src="social-icons-master/SVG/Color/Gmail.svg" alt="Email" width="40" height="40" />
   </a>
 </p>
 
@@ -35,11 +35,11 @@
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshnainuji/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/harshnainuji/" target="_blank">
+    <img src="social-icons-master/SVG/Color/LinkedIn.svg" alt="LinkedIn" width="50" height="50" />
   </a>
-  <a href="mailto:nainujiharsh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:nainujiharsh@gmail.com" target="_blank">
+    <img src="social-icons-master/SVG/Color/Gmail.svg" alt="Email" width="50" height="50" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <!-- Add more badges as needed -->
+  <!-- Add additional badges as needed -->
 </p>
 
 ---
@@ -107,6 +107,41 @@ An appointment booking system for a child care hospital with robust admin functi
 ## 🎯 Hobbies & Interests
 - **Reading:** Delving into both fiction & non-fiction to expand my worldview  
 - **Movies:** A fan of classic and modern cinema with a keen eye for storytelling  
-- **Language Learning
-::contentReference[oaicite:0]{index=0}
- 
+- **Language Learning:** Passionate about mastering French & Italian  
+- **Pop Culture:** I integrate quirky pop culture references and memes into my projects  
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" alt="Pop Culture Fun" width="200" />
+</p>
+
+---
+
+## 🔥 Next Steps
+- **Enhance my portfolio** by deploying full-stack projects  
+- **Gain remote work experience** via open-source contributions and freelancing  
+- **Apply for YC Startup Jobs** to secure a role that supports my move abroad
+
+---
+
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Nainuji&show_icons=true&theme=radical" alt="Harsh's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Nainuji&theme=dark" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Nainuji&theme=dark&layout=compact" alt="Top Languages" />
+</p>
+
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size:1.2rem; color:#4A90E2;">
+    🚀 Ready to build, learn, and make an impact with YC startups! 🚀
+  </marquee>
+</div>
+
+---
+
+## 📫 Get In Touch
+Feel free to reach out to me at [nainujiharsh@gmail.com](mailto:nainujiharsh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harshnainuji/). Let's collaborate and innovate!
+
+> *"Keep pushing boundaries, stay curious, and never stop learning. The future is built one line of code at a time!"* — ChatGPT
