@@ -47,119 +47,75 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br>
-        HTML5
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br>
-        CSS3
-      </td>
-      <td align="center" width="150">
-        Flexbox
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        Grid
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5" /><br>
-        Bootstrap 5
-      </td>
-      <td align="center" width="150">
-        JavaScript ES6
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        DOM Manipulation
-      </td>
-      <td align="center" width="150">
-        jQuery
-      </td>
-      <td align="center" width="150">
-        Bash Command Line
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        Git, GitHub<br>and Version Control
-      </td>
-      <td align="center" width="150">
-        Backend Web Development
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /><br>
-        Node.js
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        NPM
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /><br>
-        Express.js
-      </td>
-      <td align="center" width="150">
-        EJS
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        REST & APIs
-      </td>
-      <td align="center" width="150">
-        Databases<br> & SQL
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br>
-        PostgreSQL
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /><br>
-        MongoDB
-      </td>
-      <td align="center" width="150">
-        Authentication
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" /><br>
-        React.js
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        React Hooks
-      </td>
-      <td align="center" width="150">
-        Web Design
-      </td>
-      <td align="center" width="150">
-        Deployment with GitHub Pages
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        Web3 Development<br> on the Internet Computer
-      </td>
-      <td align="center" width="150">
-        Blockchain Technology
-      </td>
-      <td align="center" width="150">
-        Token Contract Development<br> & NFT Minting/Trading
-      </td>
-    </tr>
-  </table>
+### Frontend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50"/>
+</p>
+
+- **HTML5:** Semantic structure and accessibility
+- **CSS3:** Styling with Flexbox and Grid
+- **JavaScript ES6:** Dynamic and interactive web pages
+- **Bootstrap 5:** Responsive design and components
+- **React.js:** Building user interfaces with components
+- **Flexbox & Grid:** Advanced layout techniques
+
+### Backend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+</p>
+
+- **Node.js:** Server-side JavaScript runtime
+- **Express.js:** Web application framework
+- **MongoDB:** NoSQL database for scalable applications
+- **PostgreSQL:** Advanced SQL database
+- **REST & APIs:** Designing and consuming APIs
+- **Authentication:** Secure user authentication mechanisms
+
+### Tools & Technologies
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
+</p>
+
+- **Git & GitHub:** Version control and collaboration
+- **NPM:** Package management
+- **Bash Command Line:** Scripting and automation
+- **jQuery:** Simplified DOM manipulation
+- **EJS:** Embedded JavaScript templating
+- **Web Design:** UI/UX principles
+- **Deployment:** GitHub Pages and other platforms
+- **Web3 Development:** Building on the Internet Computer
+- **Blockchain Technology:** Understanding decentralized systems
+- **Token Contracts & NFTs:** Development and trading
+
+## 📫 Get In Touch
+
+<div align="center" style="border: 2px solid #4A90E2; border-radius: 10px; padding: 20px; max-width: 600px; margin: auto;">
+  <p style="font-size: 1.2rem;">Feel free to reach out to me:</p>
+  <p>
+    <a href="mailto:nainujiharsh@gmail.com" style="text-decoration: none; color: inherit;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
+      <strong>nainujiharsh@gmail.com</strong>
+    </a>
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/harshnainuji/" style="text-decoration: none; color: inherit;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
+      <strong>Connect on LinkedIn</strong>
+    </a>
+  </p>
+  <p style="font-size: 1.2rem; color: #4A90E2; margin-top: 10px;">Let's collaborate and innovate!</p>
 </div>
 
----
 
 ## 🎓 Education
 **Diploma in Information and Communication Technology Engineering**  
@@ -200,23 +156,23 @@ An appointment booking system for a child care hospital with robust admin functi
     <tr>
       <td align="center" style="padding: 10px;">
         <img src="https://flagcdn.com/w40/us.png" alt="English" /><br>
-        **English**
+        *English*
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://flagcdn.com/w40/in.png" alt="Hindi" /><br>
-        **Hindi**
+        *Hindi*
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://flagcdn.com/w40/in.png" alt="Gujarati" /><br>
-        **Gujarati**
+        *Gujarati*
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://flagcdn.com/w40/jp.png" alt="Japanese" /><br>
-        **Japanese**
+        *Japanese*
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://flagcdn.com/w40/fr.png" alt="French" /><br>
-        **French**
+        *French*
       </td>
     </tr>
   </table>
@@ -275,7 +231,7 @@ An appointment booking system for a child care hospital with robust admin functi
   </p>
   <p>
     <a href="https://www.linkedin.com/in/harshnainuji/" style="text-decoration: none; color: inherit;">
-      <img src="social-icons-master/SVG/Color/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
+      <img src="icons8-linkedin.svg" alt="LinkedIn" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
       <strong>Connect on LinkedIn</strong>
     </a>
   </p>
