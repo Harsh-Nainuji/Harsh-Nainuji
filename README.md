@@ -46,16 +46,118 @@
 ---
 
 ## 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <!-- Add additional badges as needed -->
-</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br>
+        HTML5
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br>
+        CSS3
+      </td>
+      <td align="center" width="150">
+        Flexbox
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        Grid
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5" /><br>
+        Bootstrap 5
+      </td>
+      <td align="center" width="150">
+        JavaScript ES6
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        DOM Manipulation
+      </td>
+      <td align="center" width="150">
+        jQuery
+      </td>
+      <td align="center" width="150">
+        Bash Command Line
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        Git, GitHub<br>and Version Control
+      </td>
+      <td align="center" width="150">
+        Backend Web Development
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /><br>
+        Node.js
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        NPM
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /><br>
+        Express.js
+      </td>
+      <td align="center" width="150">
+        EJS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        REST & APIs
+      </td>
+      <td align="center" width="150">
+        Databases<br> & SQL
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br>
+        PostgreSQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /><br>
+        MongoDB
+      </td>
+      <td align="center" width="150">
+        Authentication
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" /><br>
+        React.js
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        React Hooks
+      </td>
+      <td align="center" width="150">
+        Web Design
+      </td>
+      <td align="center" width="150">
+        Deployment with GitHub Pages
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        Web3 Development<br> on the Internet Computer
+      </td>
+      <td align="center" width="150">
+        Blockchain Technology
+      </td>
+      <td align="center" width="150">
+        Token Contract Development<br> & NFT Minting/Trading
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -92,25 +194,46 @@ An appointment booking system for a child care hospital with robust admin functi
 ---
 
 ## 🌍 Languages I Speak
+
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="4" style="font-size:1.2rem;">
-    <img src="https://flagcdn.com/w40/us.png" alt="English" /> English &nbsp;&nbsp;
-    <img src="https://flagcdn.com/w40/in.png" alt="Hindi" /> Hindi &nbsp;&nbsp;
-    <img src="https://flagcdn.com/w40/in.png" alt="Gujarati" /> Gujarati &nbsp;&nbsp;
-    <img src="https://flagcdn.com/w40/jp.png" alt="Japanese" /> Japanese &nbsp;&nbsp;
-    <img src="https://flagcdn.com/w40/fr.png" alt="French" /> French
-  </marquee>
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://flagcdn.com/w40/us.png" alt="English" /><br>
+        **English**
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://flagcdn.com/w40/in.png" alt="Hindi" /><br>
+        **Hindi**
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://flagcdn.com/w40/in.png" alt="Gujarati" /><br>
+        **Gujarati**
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://flagcdn.com/w40/jp.png" alt="Japanese" /><br>
+        **Japanese**
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://flagcdn.com/w40/fr.png" alt="French" /><br>
+        **French**
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
 ## 🎯 Hobbies & Interests
-- **Reading:** Delving into both fiction & non-fiction to expand my worldview  
-- **Movies:** A fan of classic and modern cinema with a keen eye for storytelling  
-- **Language Learning:** Passionate about mastering French & Italian  
-- **Pop Culture:** I integrate quirky pop culture references and memes into my projects  
+
+- **Reading:** I dive into both fiction and non-fiction to expand my perspective and fuel creativity.
+- **Movies:** I appreciate classic and modern cinema—great storytelling always inspires me.
+- **Language Learning:** Passionate about mastering French & Italian to broaden my cultural horizons.
+- **Pop Culture:** I infuse quirky pop culture references and memes into my projects to keep my work fun and relatable.
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" alt="Pop Culture Fun" width="200" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Fun" width="250" />
 </p>
 
 ---
@@ -140,8 +263,24 @@ An appointment booking system for a child care hospital with robust admin functi
 </div>
 
 ---
-
 ## 📫 Get In Touch
-Feel free to reach out to me at [nainujiharsh@gmail.com](mailto:nainujiharsh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harshnainuji/). Let's collaborate and innovate!
+
+<div align="center" style="border: 2px solid #4A90E2; border-radius: 10px; padding: 20px; max-width: 600px; margin: auto;">
+  <p style="font-size: 1.2rem;">Feel free to reach out to me:</p>
+  <p>
+    <a href="mailto:nainujiharsh@gmail.com" style="text-decoration: none; color: inherit;">
+      <img src="social-icons-master/SVG/Color/Gmail.svg" alt="Email" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
+      <strong>nainujiharsh@gmail.com</strong>
+    </a>
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/harshnainuji/" style="text-decoration: none; color: inherit;">
+      <img src="social-icons-master/SVG/Color/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="vertical-align: middle; margin-right: 8px;" />
+      <strong>Connect on LinkedIn</strong>
+    </a>
+  </p>
+  <p style="font-size: 1.2rem; color: #4A90E2; margin-top: 10px;">Let's collaborate and innovate!</p>
+</div>
+
 
 > *"Keep pushing boundaries, stay curious, and never stop learning. The future is built one line of code at a time!"*
