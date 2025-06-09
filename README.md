@@ -60,15 +60,17 @@ I'm a passionate and creative developer who blends clean code with sleek UI. I w
 
 ---
 
-<!-- Projects -->
-<h2 align="left" style="color:#00BFFF;">📂 Featured Projects</h2>
+<!-- Why Me Section -->
+<h2 align="left" style="color:#00BFFF;">🔥 Why Work With Me?</h2>
 
-| Name | Tech Stack | Description |
-|------|------------|-------------|
-| 🛍️ [Timeless Style](https://github.com/Harsh-Nainuji/TImelss-style-First-Full-stack-) | EJS, Node, MySQL | Clothing store with admin panel and cart |
-| 🏥 [ChildCare Hospital](https://github.com/Harsh-Nainuji/Child-Hospital-Website) | Node.js, EJS | Booking & appointment system |
-| 📦 [Movers Website](https://github.com/Harsh-Nainuji/moving-website-) | HTML, CSS | Clean business landing page |
-| 🌐 [Travel Agency](https://github.com/Harsh-Nainuji/Traveling-agency-) | HTML, Bootstrap | Tourism & booking site |
+- 🚀 I don’t just code, I **craft experiences**  
+- 🧠 Problem-solver who thrives on challenges  
+- ✨ My designs are **clean, fast, and user-centric**  
+- 🕒 Committed to **timely delivery**  
+- 📈 I build with **scalability and performance** in mind  
+- 🤝 100% dedication — every single project is personal to me
+
+Let’s make something amazing together.
 
 ---
 
