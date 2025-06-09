@@ -1,26 +1,20 @@
-<h1 align="center">🚀 Harsh Nainuji</h1>
-<h3 align="center">Full-Stack Developer | Creative Coder | Dreaming Big</h3>
+<!-- README.md -->
 
-<p align="center">
-  <a href="https://github.com/Harsh-Nainuji" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshnainuji/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nainujiharsh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-%23ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=450&lines=Hey!+I'm+Harsh+Nainuji;Full-Stack+Web+Developer;Freelancer+%7C+Creative+C0der;React+%7C+Node+%7C+Tailwind+%7C+MongoDB" alt="Typing SVG" />
+</div>
 
 ---
 
-## ✨ About Me
+<h2 align="center">🧠 Who Am I?</h2>
 
-I'm Harsh — a full-stack developer with a sharp eye for design, a brain wired for logic, and a heart driven by curiosity. Whether it's spinning up a React UI or designing RESTful APIs, I'm all about building **scalable, modern web apps** that look good and work even better.
-
-```yaml
-Currently Building: "Timeless Style" eCommerce Platform
-Learning: Advanced MERN Stack + DevOps
-Open to: Collabs, Freelancing, Remote Work
-Fun Fact: I speak code & memes fluently 🤓🔥
+```js
+const harsh = {
+  name: "Harsh Nainuji",
+  role: "Full-Stack Web Developer & Freelancer",
+  focus: ["React.js", "Node.js", "MongoDB", "TailwindCSS", "Animations"],
+  email: "nainujiharsh@gmail.com",
+  currentStatus: "🚧 Building stunning web experiences",
+  freelance: true,
+  passion: "Creating modern, smooth, high-performance UIs"
+};
