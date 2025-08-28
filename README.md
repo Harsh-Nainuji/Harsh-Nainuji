@@ -1,103 +1,85 @@
-<!-- README.md -->
-
-<!-- Hero Section -->
-<h1 align="center" style="font-size: 3rem; color: #facc15;">Hi, I'm Harsh Nainuji 👋</h1>
+<!-- Banner / Hero -->
 <p align="center">
-  <strong>💻 Full-Stack Web Developer | 🎨 UI Designer | 🌐 Freelancer</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=NexisCraft&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
+
+---
+
+# 👋 Hi, I'm **Harsh Nainuji**
+
+🚀 Founder of **[NexisCraft](https://nexiscraft.com)**  
+⚡ Building **AI Products | MVP Sprints | Growth Systems**  
+
+---
+
+## 🌟 About Me  
+
+- 💡 I help **startups ship fast** with AI-first products and conversion-focused systems.  
+- 💻 Skilled in **React, Node.js, Express, MongoDB/Postgres, Tailwind, Shadcn UI**.  
+- 🔥 Passionate about **SaaS**, **automation**, and **designing growth-driven platforms**.  
+- 🌍 Focused on working with **international startups (YC-style)**.  
+
+---
+
+## 🛠️ What I Do  
+
+✅ **Full-Stack SaaS Development**  
+✅ **AI Integrations & Automations**  
+✅ **Startup MVP Sprint Builds**  
+✅ **Modern UI/UX Systems**  
+✅ **High-Conversion Landing Pages**  
+
+---
+
+## 🚀 Featured Projects  
+
+🔹 **[Legal AI SaaS Platform](#)** *(Client Work)*  
+Multi-role SaaS (Admin, Lawyer, Client) with AI-assisted case tools, smart search, subscriptions & dashboards.  
+
+🔹 **[NexisCraft](https://nexiscraft.com)**  
+My studio — building **AI-first products & systems** for scaling startups.  
+
+🔹 **[Personal Finance Tracker](#)** *(MERN Stack)*  
+Expense tracker with dark/light themes, JWT auth & analytics dashboards.  
+
+🔹 **[Real Estate CRM](#)** *(Enterprise SaaS)*  
+Lead management, role-based dashboards, Google Maps, subscription tiers.  
+
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
-  Turning bold ideas into stunning digital experiences.
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Nainuji&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Nainuji&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
----
-
-<!-- About Me -->
-<h2 align="left" style="color:#00BFFF;">📖 About Me</h2>
-
-I'm a passionate and creative developer who blends clean code with sleek UI. I work with modern technologies to bring life to every pixel and logic to every feature.
-
-- 🔧 Currently working as a freelancer
-- ✨ Love building user-first, fast, and beautiful websites
-- 🛠️ Technologies: React, TailwindCSS, Node, MongoDB, PostgreSQL
-- 🌈 Design + Performance = 💯
-
----
-
-<!-- Skills Section -->
-<h2 align="left" style="color:#00BFFF;">🧠 Skills</h2>
-
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>HTML5, CSS3, JavaScript, React.js, TailwindCSS, Bootstrap</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js, Express.js, EJS, REST APIs</td>
-  </tr>
-  <tr>
-    <td><strong>Database</strong></td>
-    <td>MongoDB, PostgreSQL, MySQL</td>
-  </tr>
-  <tr>
-    <td><strong>Other Tools</strong></td>
-    <td>Git, GitHub, VSCode, Netlify, Render, Figma</td>
-  </tr>
-</table>
-
----
-
-<!-- Abilities Section -->
-<h2 align="left" style="color:#00BFFF;">💼 What I Can Do</h2>
-
-✅ Design and develop complete websites from scratch  
-✅ Mobile-first responsive UI/UX  
-✅ REST API integration  
-✅ Admin panels and dashboards  
-✅ Portfolio and eCommerce sites  
-✅ SEO optimization & performance tuning  
-✅ Fast delivery & long-term support
-
----
-
-<!-- Why Me Section -->
-<h2 align="left" style="color:#00BFFF;">🔥 Why Work With Me?</h2>
-
-- 🚀 I don’t just code, I **craft experiences**  
-- 🧠 Problem-solver who thrives on challenges  
-- ✨ My designs are **clean, fast, and user-centric**  
-- 🕒 Committed to **timely delivery**  
-- 📈 I build with **scalability and performance** in mind  
-- 🤝 100% dedication — every single project is personal to me
-
-Let’s make something amazing together.
-
----
-
-<!-- Social Section -->
-<h2 align="left" style="color:#00BFFF;">🌍 Let's Connect</h2>
-
-<p align="left">
-  <a href="https://github.com/Harsh-Nainuji">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://x.com/HarshNDev">
-    <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/harsh.websolutions">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshnainuji/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nainujiharsh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1E1E1E&height=120&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Nainuji&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://nexiscraft.com">
+    <img src="https://img.shields.io/badge/🌐_Website-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nexiscraft/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:nexiscraft.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/harsh-nainuji">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
+
