@@ -33,17 +33,14 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **[Legal AI SaaS Platform](#)** *(Client Work)*  
+🔹 **[Legal AI SaaS Platform](#)** *(Client Work)* *(Comming soon)* 
 Multi-role SaaS (Admin, Lawyer, Client) with AI-assisted case tools, smart search, subscriptions & dashboards.  
 
-🔹 **[NexisCraft](https://nexiscraft.com)**  
+🔹 **[NexisCraft](https://nexis-craft.vercel.app/)**  
 My studio — building **AI-first products & systems** for scaling startups.  
 
-🔹 **[Personal Finance Tracker](#)** *(MERN Stack)*  
-Expense tracker with dark/light themes, JWT auth & analytics dashboards.  
-
-🔹 **[Real Estate CRM](#)** *(Enterprise SaaS)*  
-Lead management, role-based dashboards, Google Maps, subscription tiers.  
+🔹 **[Desgin Clave](https://design-clave.vercel.app/)** *(MERN Stack)*  
+Experience one of the best ui/ux desgins and connect with the desginer  
 
 ---
 
@@ -63,7 +60,7 @@ Lead management, role-based dashboards, Google Maps, subscription tiers.
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://nexiscraft.com">
+  <a href=[https://nexis-craft.vercel.app/)">
     <img src="https://img.shields.io/badge/🌐_Website-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/nexiscraft/">
@@ -72,7 +69,7 @@ Lead management, role-based dashboards, Google Maps, subscription tiers.
   <a href="mailto:nexiscraft.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/harsh-nainuji">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/nexiscraft/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
