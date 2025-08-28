@@ -5,9 +5,9 @@
 
 ---
 
-# 👋 Hi, I'm **Harsh Nainuji**
+# 👋 Hi, I'm **Harsh**
 
-🚀 Founder of **[NexisCraft](https://nexiscraft.com)**  
+🚀 Founder of **[NexisCraft](https://nexis-craft.vercel.app/)**  
 ⚡ Building **AI Products | MVP Sprints | Growth Systems**  
 
 ---
@@ -33,14 +33,14 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **[Legal AI SaaS Platform](#)** *(Client Work)* *(Comming soon)* 
+🔹 **[Legal AI SaaS Platform](#)** *(Client Work, Coming soon)*  
 Multi-role SaaS (Admin, Lawyer, Client) with AI-assisted case tools, smart search, subscriptions & dashboards.  
 
 🔹 **[NexisCraft](https://nexis-craft.vercel.app/)**  
 My studio — building **AI-first products & systems** for scaling startups.  
 
-🔹 **[Desgin Clave](https://design-clave.vercel.app/)** *(MERN Stack)*  
-Experience one of the best ui/ux desgins and connect with the desginer  
+🔹 **[Design Clave](https://design-clave.vercel.app/)** *(MERN Stack)*  
+Experience one of the best UI/UX designs and connect with the designer.  
 
 ---
 
@@ -60,7 +60,7 @@ Experience one of the best ui/ux desgins and connect with the desginer
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href=[https://nexis-craft.vercel.app/)">
+  <a href="https://nexis-craft.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Website-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/nexiscraft/">
@@ -69,7 +69,7 @@ Experience one of the best ui/ux desgins and connect with the desginer
   <a href="mailto:nexiscraft.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/nexiscraft/)">
+  <a href="https://linkedin.com/in/nexiscraft">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -79,4 +79,3 @@ Experience one of the best ui/ux desgins and connect with the desginer
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
-
