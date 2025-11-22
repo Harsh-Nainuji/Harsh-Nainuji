@@ -1,50 +1,60 @@
 <!-- Banner / Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=NexisCraft&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harsh%20Nainuji&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 ---
 
-# 👋 Hi, I'm **Harsh**
+# 👋 Harsh here
 
-🚀 Founder of **[NexisCraft](https://nexis-craft.vercel.app/)**  
-⚡ Building **AI Products | MVP Sprints | Growth Systems**  
-
----
-
-## 🌟 About Me  
-
-- 💡 I help **startups ship fast** with AI-first products and conversion-focused systems.  
-- 💻 Skilled in **React, Node.js, Express, MongoDB/Postgres, Tailwind, Shadcn UI**.  
-- 🔥 Passionate about **SaaS**, **automation**, and **designing growth-driven platforms**.  
-- 🌍 Focused on working with **international startups (YC-style)**.  
+Founder of **[Atarico](https://nexis-craft.vercel.app/)**  
+Engineering **AI products, scalable SaaS systems, and fast MVP cycles** for early-stage teams.
 
 ---
 
-## 🛠️ What I Do  
+## 🌐 What I Focus On
 
-✅ **Full-Stack SaaS Development**  
-✅ **AI Integrations & Automations**  
-✅ **Startup MVP Sprint Builds**  
-✅ **Modern UI/UX Systems**  
-✅ **High-Conversion Landing Pages**  
-
----
-
-## 🚀 Featured Projects  
-
-🔹 **[Legal AI SaaS Platform](#)** *(Client Work, Coming soon)*  
-Multi-role SaaS (Admin, Lawyer, Client) with AI-assisted case tools, smart search, subscriptions & dashboards.  
-
-🔹 **[NexisCraft](https://nexis-craft.vercel.app/)**  
-My studio — building **AI-first products & systems** for scaling startups.  
-
-🔹 **[Design Clave](https://design-clave.vercel.app/)** *(MERN Stack)*  
-Experience one of the best UI/UX designs and connect with the designer.  
+- Building **AI-first software** that solves operational bottlenecks.  
+- Full-stack engineering with **MERN, Next.js, PostgreSQL, Tailwind, Shadcn UI**.  
+- Designing systems that scale cleanly rather than expensively.  
+- Working with **global, founder-driven startups** that move fast.
 
 ---
 
-## 📊 GitHub Stats  
+## 🔧 Core Capabilities
+
+### Product & Engineering  
+- SaaS architectures  
+- Authentication, billing, RBAC systems  
+- AI agents, automations, workflow intelligence  
+- API-driven backends with clean data modeling  
+
+### Frontend  
+- High-conversion landing pages  
+- Modern UI/UX systems  
+- Interactive dashboards and tooling  
+
+### Startup Execution  
+- Rapid MVP sprints  
+- Technical audits  
+- Conversion-oriented product improvements  
+
+---
+
+## 🚀 Selected Work
+
+🔹 **Legal AI SaaS Platform (Client Work)**  
+Role-based SaaS for legal ops: AI drafting, clause checks, case intelligence, scheduling, and subscription workflows.
+
+🔹 **Atarico**  
+Independent studio building **AI-driven systems, prototypes, and automation layers** for scaling startups.
+
+🔹 **Design Clave**  
+MERN stack project demonstrating structured UI/UX execution and frontend consistency.
+
+---
+
+## 📊 Engineering Snapshot
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Nainuji&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -57,7 +67,7 @@ Experience one of the best UI/UX designs and connect with the designer.
 
 ---
 
-## 🌐 Connect With Me  
+## 📡 Connect
 
 <p align="center">
   <a href="https://nexis-craft.vercel.app/">
