@@ -1,91 +1,114 @@
 <!-- Banner / Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harsh%20Nainuji&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,4,6,8&text=Harsh%20Nainuji&fontSize=65&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
----
+<div align="center">
 
-# 👋 Harsh here
+### ⚡ Founder • Engineer • Systems Builder  
+#### Building AI-driven products, scalable SaaS platforms, and rapid MVPs under **Atarico**
 
-Founder of **[Atarico](https://nexis-craft.vercel.app/)**  
-Engineering **AI products, scalable SaaS systems, and fast MVP cycles** for early-stage teams.
-
----
-
-## 🌐 What I Focus On
-
-- Building **AI-first software** that solves operational bottlenecks.  
-- Full-stack engineering with **MERN, Next.js, PostgreSQL, Tailwind, Shadcn UI**.  
-- Designing systems that scale cleanly rather than expensively.  
-- Working with **global, founder-driven startups** that move fast.
+</div>
 
 ---
 
-## 🔧 Core Capabilities
-
-### Product & Engineering  
-- SaaS architectures  
-- Authentication, billing, RBAC systems  
-- AI agents, automations, workflow intelligence  
-- API-driven backends with clean data modeling  
-
-### Frontend  
-- High-conversion landing pages  
-- Modern UI/UX systems  
-- Interactive dashboards and tooling  
-
-### Startup Execution  
-- Rapid MVP sprints  
-- Technical audits  
-- Conversion-oriented product improvements  
-
----
-
-## 🚀 Selected Work
-
-🔹 **Legal AI SaaS Platform (Client Work)**  
-Role-based SaaS for legal ops: AI drafting, clause checks, case intelligence, scheduling, and subscription workflows.
-
-🔹 **Atarico**  
-Independent studio building **AI-driven systems, prototypes, and automation layers** for scaling startups.
-
-🔹 **Design Clave**  
-MERN stack project demonstrating structured UI/UX execution and frontend consistency.
-
----
-
-## 📊 Engineering Snapshot
+# 🧠 Domain Focus
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Nainuji&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Nainuji&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://img.shields.io/badge/AI%20Systems-24243E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SaaS%20Architecture-302B63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation%20%26%20Agents-0F0C29?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Nainuji&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://img.shields.io/badge/MERN%20Stack-1A1A2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Next.js-16213E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0F3460?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📡 Connect
+# 🚀 Engineering Profile
+
+### Precision-based development  
+Systems designed for stability, scalability, and clean expansion.
+
+### AI-centric build philosophy  
+Workflows, agents, and automation layers integrated directly into product structure.
+
+### Product execution for fast-moving teams  
+Lean, reliable MVPs built without architectural debt.
+
+---
+
+# 🛠️ Capabilities (Technical + Product)
+
+### **Core Engineering**
+- SaaS platforms with RBAC, billing, and multi-tenant logic  
+- API-first backends, optimized DB schemas  
+- AI agents, workflow orchestration, automation pipelines  
+
+### **Interface & Experience**
+- High-conversion frontends  
+- Shadcn + Tailwind design systems  
+- Dashboard engineering with modular components  
+
+### **Startup Execution**
+- Zero-noise MVP sprints  
+- System audits and performance tuning  
+- Growth-driven product restructuring  
+
+---
+
+# 🎯 Selected Work
+
+### **Legal AI SaaS Platform – Multi-role Intelligence System**
+Admin, Lawyer, Client dashboards • AI-assisted drafting • Case analysis • Clause validation • Subscription system • Integrated automation.
+
+---
+
+### **Atarico – Independent AI & SaaS Engineering Studio**  
+Focused on building operational tools, automation layers, and AI-first product foundations.
+
+---
+
+### **Design Clave – High-Fidelity MERN/UI Project**  
+Structured UI/UX execution with clean, modern interfaces.
+
+---
+
+# 📊 Engineering Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Nainuji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=79c0ff" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Nainuji&theme=tokyonight&hide_border=true&background=0d1117" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Nainuji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
+</p>
+
+---
+
+# 🌐 Contact & Links
 
 <p align="center">
   <a href="https://nexis-craft.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Website-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/nexiscraft/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-302B63?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:nexiscraft.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-24243E?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/nexiscraft">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0F3460?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=0,4,8"/>
 </p>
