@@ -1,78 +1,85 @@
-<!-- ==================== HEADER ==================== -->
-
 <div align="center">
 
-# HARSH NAINUJI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,50:1a1a4e,100:6C63FF&height=200&section=header&text=Harsh%20Nainuji&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=I%20build%20things%20that%20work%20%E2%80%94%20and%20things%20that%20matter&descAlignY=60&descSize=18&animation=twinkling" />
 
-### Full-Stack Developer · AI Builder · Freelancer
+<br/>
 
-Building web products, SaaS platforms, AI-powered tools, and practical MVPs.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Full-Stack+Developer+%7C+AI+Builder+%7C+Atarico+Founder;From+idea+%E2%86%92+architecture+%E2%86%92+shipped+product.;Open+to+remote+roles+%26+serious+collaborations.)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://atarico.dev">
-  <img src="https://img.shields.io/badge/Portfolio-atarico.dev-0F3460?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_atarico.dev-6C63FF?style=for-the-badge&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/harsh-n-58991425b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Nainuji-0F3460?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Harsh-Nainuji">
-  <img src="https://img.shields.io/badge/GitHub-Harsh--Nainuji-0F3460?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;
+<a href="mailto:harsh@atarico.dev">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Harsh-Nainuji&style=flat-square&color=6C63FF&label=PROFILE+VIEWS)
 
 </div>
 
-<br/>
+---
+
+<div align="center">
+
+### The short version
+
+</div>
+
+I'm a full-stack developer based in India, building web products and AI-powered applications for startups and businesses.
+
+I run **[Atarico](https://atarico.dev)** — my independent studio where I take products from rough idea to real deployment. Not just frontend. Not just backend. The whole thing.
+
+I've shipped real client products — SaaS platforms, marketplaces, document systems — and I'm building more. My goal isn't to stay in one lane. I'm building toward something bigger, and every project is a step toward it.
+
+**Currently open to:** Remote roles · Freelance engagements · Serious long-term collaborations
 
 ---
 
-## Profile
+<div align="center">
 
-I'm a freelance full-stack developer focused on building useful digital products from idea to deployment.
+## What I actually do
 
-My work sits at the intersection of **modern web development, AI, product thinking, and SaaS engineering**.
+</div>
 
-I work primarily with the JavaScript/TypeScript ecosystem and enjoy building systems that are clean, practical, and actually usable rather than unnecessarily complicated.
-
-Currently building under **Atarico** — my independent development studio.
-
----
-
-## What I Build
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="230px">
 
-### Full-Stack Products
+**🧩 Full-Stack Products**
 
-Web applications, dashboards, admin systems, marketplaces, business tools, and SaaS platforms.
+Web apps · dashboards · admin systems · SaaS platforms · marketplaces
 
 </td>
+<td align="center" width="230px">
 
-<td width="50%">
+**🤖 AI-Powered Applications**
 
-### AI Products
-
-AI-assisted workflows, document systems, automation, intelligent features, and LLM-powered applications.
+LLM integrations · document workflows · automation · AI-native product features
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td align="center" width="230px">
 
-### MVP Engineering
+**🚀 MVP Engineering**
 
-Turning product ideas into functional MVPs quickly without overengineering the first version.
+Idea → architecture → working product. Fast, clean, no overengineering.
 
 </td>
+<td align="center" width="230px">
 
-<td width="50%">
+**🎨 Frontend That Looks Intentional**
 
-### Modern Frontend
-
-Responsive interfaces with strong component architecture, polished UX, and modern interaction patterns.
+Not just functional. Interfaces that feel good to use and look like someone actually cared.
 
 </td>
 </tr>
@@ -80,130 +87,162 @@ Responsive interfaces with strong component architecture, polished UX, and moder
 
 ---
 
+<div align="center">
+
 ## Tech Stack
 
 ### Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-### Backend & Databases
+### Backend & Data
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### AI
 
-LLM integrations · AI workflows · AI-assisted development · intelligent document systems · automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+</div>
 
 ---
 
-## Selected Work
+<div align="center">
 
-### Legal Frito AI
+## Things I've shipped
 
-A legal-tech SaaS platform built around multiple user roles including **Admin, Lawyer, and Client**.
+</div>
 
-Features include:
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-- AI-assisted document drafting
-- Clause checking and analysis
-- Role-based dashboards
-- Document workflows
-- SaaS-style application architecture
+### 🏪 Multi-Vendor E-Commerce Platform
+*(Launching soon)*
+
+Three-sided marketplace — buyer app, seller app, delivery partner app, and a full admin panel. Built end-to-end as the sole developer.
+
+Real product. Real users incoming.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ Legal-Tech SaaS
+
+Multi-role platform — Admin, Lawyer, Client — with AI-assisted document drafting, clause analysis, role-based dashboards, and full document workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Quota Creation *(Open Source)*
+
+Quotation platform with one constraint: **no account required.**
+
+Built around removing friction. Lightweight, accessible, ships fast.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Atarico
+
+My studio. Web products · AI apps · automation · MVPs.
+
+Not a freelancer label. A real operation with a real direction.
+
+🌐 [atarico.dev](https://atarico.dev)
+
+</td>
+</tr>
+</table>
+
+> Some client work is under NDA. If you want to see more, reach out directly.
 
 ---
 
-### Atarico
-
-My independent development studio focused on building modern web products, AI-powered applications, automation systems, and MVPs.
-
-**Website:** [atarico.dev](https://atarico.dev)
-
----
-
-### Quota Creation
-
-An open-source quotation platform designed around a simple idea:
-
-**Create professional quotations without forcing users to create an account.**
-
-Built as a lightweight product with simplicity and accessibility as priorities.
-
----
-
-### E-Commerce & Business Platforms
-
-I've also worked on client products including e-commerce systems, CRM-style applications, property platforms, job portals, educational systems, and other custom business software.
-
-Some client work is private or covered by NDA.
-
----
-
-## Current Focus
-
-I'm currently focused on getting better at:
-
-- Building production-ready SaaS products
-- AI-native application architecture
-- Better system design and backend engineering
-- Product-driven development
-- Freelancing and client acquisition
-- Building and shipping independent products
-
----
+<div align="center">
 
 ## GitHub Activity
 
-<div align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Nainuji&show_icons=true&hide_border=true&theme=transparent&title_color=0F3460&text_color=9ca3af&icon_color=0F3460" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Nainuji&show_icons=true&hide_border=true&bg_color=0D0D1A&title_color=6C63FF&text_color=c9d1d9&icon_color=6C63FF&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Nainuji&layout=compact&hide_border=true&bg_color=0D0D1A&title_color=6C63FF&text_color=c9d1d9" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=Harsh-Nainuji&theme=transparent&hide_border=true&ring=0F3460&fire=0F3460&currStreakLabel=0F3460" height="165"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Harsh-Nainuji&theme=dark&hide_border=true&background=0D0D1A&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF&sideLabels=6C63FF" height="170"/>
+
+<br/><br/>
+
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-Nainuji/Harsh-Nainuji/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh-Nainuji/Harsh-Nainuji/output/github-snake.svg" />
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/Harsh-Nainuji/Harsh-Nainuji/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
-## A Little More About Me
+<div align="center">
 
-Outside development, I'm heavily into **cinema, anime, manga, and storytelling**.
+## Where I'm going
 
-I'm also interested in how technology, design, psychology, and business intersect — especially when they can be turned into something people can actually use.
+</div>
+
+I don't think in terms of job titles or tech stacks.
+
+I think in terms of what I want to build — and then I figure out what I need to learn to build it.
+
+Right now: production SaaS, deeper AI systems, better product thinking.  
+Long term: products across different spaces. Multiple things. Big range. I'm not interested in being just one thing.
 
 ---
 
-## Let's Connect
-
 <div align="center">
 
-<a href="https://atarico.dev">
-  <img src="https://img.shields.io/badge/Website-Atarico-0F3460?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+## Let's talk
 
-<a href="https://www.linkedin.com/in/harsh-n-58991425b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0F3460?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+If you're building something and need a developer who thinks about the product, not just the code — I'm interested.
 
 <br/>
 
-<div align="center">
+<a href="https://atarico.dev">
+  <img src="https://img.shields.io/badge/🌐_atarico.dev-6C63FF?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/harsh-n-58991425b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:harsh@atarico.dev">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-**Build. Ship. Learn. Repeat.**
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:1a1a4e,100:0D0D1A&height=120&section=footer&animation=twinkling" />
 
 </div>
