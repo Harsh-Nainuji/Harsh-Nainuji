@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,50:1a1a4e,100:6C63FF&height=200&section=header&text=Harsh%20Nainuji&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=I%20build%20things%20that%20work%20%E2%80%94%20and%20things%20that%20matter&descAlignY=60&descSize=18&animation=twinkling" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Harsh+Nainuji)](https://git.io/typing-svg)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Full-Stack+Developer+%7C+AI+Builder+%7C+Atarico+Founder;From+idea+%E2%86%92+architecture+%E2%86%92+shipped+product.;Open+to+remote+roles+%26+serious+collaborations.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=40&lines=Full-Stack+Developer+%7C+AI+Builder+%7C+Atarico+Founder;Building+products+from+idea+%E2%86%92+deployment.;Open+to+remote+roles+%26+serious+collaborations.)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://atarico.dev">
-  <img src="https://img.shields.io/badge/🌐_atarico.dev-6C63FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/atarico.dev-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/harsh-n-58991425b/">
@@ -17,69 +15,55 @@
 </a>
 &nbsp;
 <a href="mailto:harsh@atarico.dev">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/harsh@atarico.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Harsh-Nainuji&style=flat-square&color=6C63FF&label=PROFILE+VIEWS)
-
 </div>
 
 ---
 
-<div align="center">
+I'm a full-stack developer based in India, building web products and AI-powered applications for startups and businesses globally.
 
-### The short version
+I run **[Atarico](https://atarico.dev)** — my independent studio. Not a freelancer label. A real operation: web products, AI apps, automation, MVPs — taken from rough idea to actual deployment.
 
-</div>
+I've shipped real client products. SaaS platforms, marketplaces, document systems. My goal isn't to stay in one lane — I'm building toward something much bigger, and every project is a step toward it.
 
-I'm a full-stack developer based in India, building web products and AI-powered applications for startups and businesses.
-
-I run **[Atarico](https://atarico.dev)** — my independent studio where I take products from rough idea to real deployment. Not just frontend. Not just backend. The whole thing.
-
-I've shipped real client products — SaaS platforms, marketplaces, document systems — and I'm building more. My goal isn't to stay in one lane. I'm building toward something bigger, and every project is a step toward it.
-
-**Currently open to:** Remote roles · Freelance engagements · Serious long-term collaborations
+**Currently open to** — Remote roles &nbsp;·&nbsp; Freelance engagements &nbsp;·&nbsp; Long-term collaborations
 
 ---
 
-<div align="center">
+## What I build
 
-## What I actually do
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="230px">
+<td width="50%" valign="top">
 
-**🧩 Full-Stack Products**
+**Full-Stack Products**
 
-Web apps · dashboards · admin systems · SaaS platforms · marketplaces
+Web apps, dashboards, admin systems, SaaS platforms, marketplaces. The whole stack.
 
 </td>
-<td align="center" width="230px">
+<td width="50%" valign="top">
 
-**🤖 AI-Powered Applications**
+**AI-Powered Applications**
 
-LLM integrations · document workflows · automation · AI-native product features
+LLM integrations, document workflows, automation, intelligent product features.
 
 </td>
 </tr>
 <tr>
-<td align="center" width="230px">
+<td width="50%" valign="top">
 
-**🚀 MVP Engineering**
+**MVP Engineering**
 
-Idea → architecture → working product. Fast, clean, no overengineering.
+Idea to working product — fast, clean, no overengineering of v1.
 
 </td>
-<td align="center" width="230px">
+<td width="50%" valign="top">
 
-**🎨 Frontend That Looks Intentional**
+**Frontend That Looks Intentional**
 
-Not just functional. Interfaces that feel good to use and look like someone actually cared.
+Not just functional. Interfaces that feel good to use and look like someone cared.
 
 </td>
 </tr>
@@ -87,64 +71,48 @@ Not just functional. Interfaces that feel good to use and look like someone actu
 
 ---
 
-<div align="center">
-
 ## Tech Stack
 
-### Frontend
+<div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+**Frontend**
 
-### Backend & Data
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind&theme=dark" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+**Backend & Databases**
 
-### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase&theme=dark" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**Tools**
 
-### AI
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" />
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+**AI**
+
+<img src="https://skillicons.dev/icons?i=openai&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logoColor=white" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" height="48"/>
 
 </div>
 
 ---
 
-<div align="center">
-
 ## Things I've shipped
 
-</div>
-
-<table align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏪 Multi-Vendor E-Commerce Platform
-*(Launching soon)*
+**Multi-Vendor E-Commerce Platform** &nbsp;*(launching soon)*
 
-Three-sided marketplace — buyer app, seller app, delivery partner app, and a full admin panel. Built end-to-end as the sole developer.
-
-Real product. Real users incoming.
+Three-sided marketplace — buyer app, seller app, delivery partner app, full admin panel. Built end-to-end as the sole developer. Real product. Real users incoming.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ Legal-Tech SaaS
+**Legal-Tech SaaS**
 
 Multi-role platform — Admin, Lawyer, Client — with AI-assisted document drafting, clause analysis, role-based dashboards, and full document workflows.
 
@@ -153,48 +121,40 @@ Multi-role platform — Admin, Lawyer, Client — with AI-assisted document draf
 <tr>
 <td width="50%" valign="top">
 
-### 📄 Quota Creation *(Open Source)*
+**Quota Creation** &nbsp;*(open source)*
 
-Quotation platform with one constraint: **no account required.**
-
-Built around removing friction. Lightweight, accessible, ships fast.
+Quotation platform with one rule: no account required. Built around removing friction.
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Atarico
+**Atarico**
 
-My studio. Web products · AI apps · automation · MVPs.
+My studio. Web products, AI apps, automation, MVPs.
 
-Not a freelancer label. A real operation with a real direction.
-
-🌐 [atarico.dev](https://atarico.dev)
+[atarico.dev](https://atarico.dev)
 
 </td>
 </tr>
 </table>
 
-> Some client work is under NDA. If you want to see more, reach out directly.
+*Some client work is under NDA. Reach out directly if you want to see more.*
 
 ---
 
-<div align="center">
-
 ## GitHub Activity
 
-<br/>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Nainuji&show_icons=true&hide_border=true&bg_color=0D0D1A&title_color=6C63FF&text_color=c9d1d9&icon_color=6C63FF&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Nainuji&show_icons=true&hide_border=true&theme=github_dark&title_color=6C63FF&icon_color=6C63FF&rank_icon=github" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Nainuji&layout=compact&hide_border=true&bg_color=0D0D1A&title_color=6C63FF&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Nainuji&layout=compact&hide_border=true&theme=github_dark&title_color=6C63FF" height="160"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Harsh-Nainuji&theme=dark&hide_border=true&background=0D0D1A&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF&sideLabels=6C63FF" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Harsh-Nainuji&theme=github-dark-blue&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="160"/>
 
 <br/><br/>
-
-### Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-Nainuji/Harsh-Nainuji/output/github-snake-dark.svg" />
@@ -206,31 +166,22 @@ Not a freelancer label. A real operation with a real direction.
 
 ---
 
-<div align="center">
-
 ## Where I'm going
-
-</div>
 
 I don't think in terms of job titles or tech stacks.
 
-I think in terms of what I want to build — and then I figure out what I need to learn to build it.
-
-Right now: production SaaS, deeper AI systems, better product thinking.  
-Long term: products across different spaces. Multiple things. Big range. I'm not interested in being just one thing.
+I think in terms of what I want to build — and then I figure out what I need to learn to build it. Right now that's production SaaS, deeper AI systems, and better product thinking. Long term, products across very different spaces. Multiple things. I'm not interested in being just one thing.
 
 ---
 
-<div align="center">
-
 ## Let's talk
 
-If you're building something and need a developer who thinks about the product, not just the code — I'm interested.
+If you're building something and need a developer who thinks about the product — not just the code — I'm interested.
 
-<br/>
+<div align="center">
 
 <a href="https://atarico.dev">
-  <img src="https://img.shields.io/badge/🌐_atarico.dev-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/atarico.dev-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/harsh-n-58991425b/">
@@ -238,11 +189,7 @@ If you're building something and need a developer who thinks about the product, 
 </a>
 &nbsp;
 <a href="mailto:harsh@atarico.dev">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:1a1a4e,100:0D0D1A&height=120&section=footer&animation=twinkling" />
 
 </div>
